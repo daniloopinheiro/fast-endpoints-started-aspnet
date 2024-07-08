@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FESAspNet.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69e3127ac52f6fe80ccc99c92bb93543834ce221")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+601f1640e99bb22db678ef363e927650c639a4b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("FESAspNet.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FESAspNet.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
