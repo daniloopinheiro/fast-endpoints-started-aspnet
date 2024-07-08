@@ -4,7 +4,7 @@
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Linux</DockerTargetOS>
     <DockerPublishLocally>False</DockerPublishLocally>
-    <ProjectGuid>f389b15d-8b28-4c64-a8fa-4bb2dfc5fecf</ProjectGuid>
+    <ProjectGuid>d394d823-f18a-4cfc-893a-bcc8e312a403</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}/swagger</DockerServiceUrl>
     <DockerServiceName>fesaspnet.api</DockerServiceName>
