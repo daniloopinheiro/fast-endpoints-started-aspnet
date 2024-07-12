@@ -1,4 +1,4 @@
-![POST-FAST-END-NET](https://github.com/user-attachments/assets/2c7690e0-2ba5-491f-925b-2d7ba8ef8712)
+![post-fast-end-net](https://github.com/user-attachments/assets/01c4aa82-5bb3-4f35-b364-d423577cd70c)
 
 O titulo se dá ao nome *fast endpoints started aspnet*, que tem por base da construção [FastEndpoints](https://fast-endpoints.com/)
 
