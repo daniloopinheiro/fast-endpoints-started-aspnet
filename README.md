@@ -13,7 +13,7 @@ O titulo se dá ao nome *fast endpoints started aspnet*, que tem por base da con
 
 ## Visão Geral
 
-Embora tenho seguido com sugere a documentação, por conta realizei algumas implementações por conta.
+Embora tenho seguido como sugere a documentação, por conta realizei algumas implementações autorais.
 
 ## Instalação
 
